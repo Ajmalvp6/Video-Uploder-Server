@@ -1,0 +1,158 @@
+{
+  "Videos": [
+    {
+      "title": "STHUTHI | Bougainvillea | Jyothirmayi",
+      "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8fCopb-QR5BNJxYJTlTfMsGu-ULZqOjgoWd0fN6dBXqoX1-7u",
+      "videoUrl": "https://www.youtube.com/embed/exkJKrAVzAc",
+      "id": 1
+    },
+    {
+      "title": "Angu Vaana Konilu (From \"ARM\")",
+      "coverImage": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/82/84/b9/8284b9ce-7839-9022-fb6b-137f796910e4/cover.jpg/800x800cc.jpg",
+      "videoUrl": "https://www.youtube.com/embed/TPU5qB1cvGc",
+      "id": 10
+    },
+    {
+      "title": "[NEXTJS] \" Book Reader App from Scratch with NextJS\" ",
+      "coverImage": "https://images.ctfassets.net/23aumh6u8s0i/6pjUKboBuFLvCKkE3esaFA/5f2101d6d2add5c615db5e98a553fc44/nextjs.jpeg",
+      "videoUrl": "https://www.youtube.com/embed/kZVt_OmD-tI",
+      "id": 11
+    }
+  ],
+  "Categories": [
+    {
+      "catagoryName": "News",
+      "Videos": [
+        {
+          "title": "Angu Vaana Konilu (From \"ARM\")",
+          "coverImage": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/82/84/b9/8284b9ce-7839-9022-fb6b-137f796910e4/cover.jpg/800x800cc.jpg",
+          "videoUrl": "https://www.youtube.com/embed/TPU5qB1cvGc",
+          "id": 10
+        },
+        {
+          "title": "STHUTHI | Bougainvillea | Jyothirmayi",
+          "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8fCopb-QR5BNJxYJTlTfMsGu-ULZqOjgoWd0fN6dBXqoX1-7u",
+          "videoUrl": "https://www.youtube.com/embed/exkJKrAVzAc",
+          "id": 1
+        },
+        {
+          "title": "Angu Vaana Konilu (From \"ARM\")",
+          "coverImage": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/82/84/b9/8284b9ce-7839-9022-fb6b-137f796910e4/cover.jpg/800x800cc.jpg",
+          "videoUrl": "https://www.youtube.com/embed/TPU5qB1cvGc",
+          "id": 10
+        },
+        {
+          "title": "[NEXTJS] \" Book Reader App from Scratch with NextJS\" ",
+          "coverImage": "https://images.ctfassets.net/23aumh6u8s0i/6pjUKboBuFLvCKkE3esaFA/5f2101d6d2add5c615db5e98a553fc44/nextjs.jpeg",
+          "videoUrl": "https://www.youtube.com/embed/kZVt_OmD-tI",
+          "id": 11
+        },
+        {
+          "title": "Angu Vaana Konilu (From \"ARM\")",
+          "coverImage": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/82/84/b9/8284b9ce-7839-9022-fb6b-137f796910e4/cover.jpg/800x800cc.jpg",
+          "videoUrl": "https://www.youtube.com/embed/TPU5qB1cvGc",
+          "id": 10
+        },
+        {
+          "title": "Angu Vaana Konilu (From \"ARM\")",
+          "coverImage": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/82/84/b9/8284b9ce-7839-9022-fb6b-137f796910e4/cover.jpg/800x800cc.jpg",
+          "videoUrl": "https://www.youtube.com/embed/TPU5qB1cvGc",
+          "id": 10
+        },
+        {
+          "title": "Angu Vaana Konilu (From \"ARM\")",
+          "coverImage": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/82/84/b9/8284b9ce-7839-9022-fb6b-137f796910e4/cover.jpg/800x800cc.jpg",
+          "videoUrl": "https://www.youtube.com/embed/TPU5qB1cvGc",
+          "id": 10
+        },
+        {
+          "title": "[NEXTJS] \" Book Reader App from Scratch with NextJS\" ",
+          "coverImage": "https://images.ctfassets.net/23aumh6u8s0i/6pjUKboBuFLvCKkE3esaFA/5f2101d6d2add5c615db5e98a553fc44/nextjs.jpeg",
+          "videoUrl": "https://www.youtube.com/embed/kZVt_OmD-tI",
+          "id": 11
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "Histories": [
+    {
+      "title": "STHUTHI | Bougainvillea | Jyothirmayi",
+      "videoUrl": "https://www.youtube.com/embed/exkJKrAVzAc",
+      "datetime": "2024-10-05 11:38:20 PM",
+      "id": 2
+    },
+    {
+      "title": "Angu Vaana Konilu (From \"ARM\")",
+      "videoUrl": "https://www.youtube.com/embed/TPU5qB1cvGc",
+      "datetime": "2024-10-05 11:38:22 PM",
+      "id": 3
+    },
+    {
+      "title": "STHUTHI | Bougainvillea | Jyothirmayi",
+      "videoUrl": "https://www.youtube.com/embed/exkJKrAVzAc",
+      "datetime": "2024-10-05 11:38:23 PM",
+      "id": 4
+    },
+    {
+      "title": "Angu Vaana Konilu (From \"ARM\")",
+      "videoUrl": "https://www.youtube.com/embed/TPU5qB1cvGc",
+      "datetime": "2024-10-05 11:38:25 PM",
+      "id": 5
+    },
+    {
+      "title": "STHUTHI | Bougainvillea | Jyothirmayi",
+      "videoUrl": "https://www.youtube.com/embed/exkJKrAVzAc",
+      "datetime": "2024-10-05 11:38:26 PM",
+      "id": 6
+    },
+    {
+      "title": "Angu Vaana Konilu (From \"ARM\")",
+      "videoUrl": "https://www.youtube.com/embed/TPU5qB1cvGc",
+      "datetime": "2024-10-05 11:38:27 PM",
+      "id": 7
+    },
+    {
+      "title": "STHUTHI | Bougainvillea | Jyothirmayi",
+      "videoUrl": "https://www.youtube.com/embed/exkJKrAVzAc",
+      "datetime": "2024-10-05 11:38:29 PM",
+      "id": 8
+    },
+    {
+      "title": "[NEXTJS] \" Book Reader App from Scratch with NextJS\"",
+      "videoUrl": "https://www.youtube.com/embed/vL7yDZz90UL",
+      "datetime": "2024-10-05 11:44:20 PM",
+      "id": 9
+    },
+    {
+      "title": "[NEXTJS] \" Book Reader App from Scratch with NextJS\" ",
+      "videoUrl": "https://www.youtube.com/embed/kZVt_OmD-tI",
+      "datetime": "2024-10-05 11:45:21 PM",
+      "id": 10
+    },
+    {
+      "title": "Angu Vaana Konilu (From \"ARM\")",
+      "videoUrl": "https://www.youtube.com/embed/TPU5qB1cvGc",
+      "datetime": "2024-10-05 11:45:26 PM",
+      "id": 11
+    },
+    {
+      "title": "[NEXTJS] \" Book Reader App from Scratch with NextJS\" ",
+      "videoUrl": "https://www.youtube.com/embed/kZVt_OmD-tI",
+      "datetime": "2024-10-07 12:02:41 PM",
+      "id": 12
+    },
+    {
+      "title": "Angu Vaana Konilu (From \"ARM\")",
+      "videoUrl": "https://www.youtube.com/embed/TPU5qB1cvGc",
+      "datetime": "2024-10-07 01:04:07 PM",
+      "id": 13
+    },
+    {
+      "title": "Angu Vaana Konilu (From \"ARM\")",
+      "videoUrl": "https://www.youtube.com/embed/TPU5qB1cvGc",
+      "datetime": "2024-10-10 04:33:22 PM",
+      "id": 14
+    }
+  ]
+}
